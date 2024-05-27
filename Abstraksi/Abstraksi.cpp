@@ -6,7 +6,7 @@ private: string x, y;
 
 public:
 
-	void setXP(string a, string b) {
+	void setXY(string a, string b) {
 		x = a;
 		y = b;
 	}
@@ -16,3 +16,10 @@ public:
 	}
 };
 
+int main() {
+	AbstraksiKlas ak;
+	ak.setXY("Yogyakarta", "Kampus");
+	ak.display();
+
+	return 0;
+}
