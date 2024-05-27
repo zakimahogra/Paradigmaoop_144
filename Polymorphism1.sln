@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polymorphism1", "Polymorphism1\Polymorphism1.vcxproj", "{F87E930F-6AA6-4932-AEB7-36B91644C05B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Enskapsulasi", "Enskapsulasi\Enskapsulasi.vcxproj", "{EADCA983-2D93-4402-BB09-154EE6D90C52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{F87E930F-6AA6-4932-AEB7-36B91644C05B}.Release|x64.Build.0 = Release|x64
 		{F87E930F-6AA6-4932-AEB7-36B91644C05B}.Release|x86.ActiveCfg = Release|Win32
 		{F87E930F-6AA6-4932-AEB7-36B91644C05B}.Release|x86.Build.0 = Release|Win32
+		{EADCA983-2D93-4402-BB09-154EE6D90C52}.Debug|x64.ActiveCfg = Debug|x64
+		{EADCA983-2D93-4402-BB09-154EE6D90C52}.Debug|x64.Build.0 = Debug|x64
+		{EADCA983-2D93-4402-BB09-154EE6D90C52}.Debug|x86.ActiveCfg = Debug|Win32
+		{EADCA983-2D93-4402-BB09-154EE6D90C52}.Debug|x86.Build.0 = Debug|Win32
+		{EADCA983-2D93-4402-BB09-154EE6D90C52}.Release|x64.ActiveCfg = Release|x64
+		{EADCA983-2D93-4402-BB09-154EE6D90C52}.Release|x64.Build.0 = Release|x64
+		{EADCA983-2D93-4402-BB09-154EE6D90C52}.Release|x86.ActiveCfg = Release|Win32
+		{EADCA983-2D93-4402-BB09-154EE6D90C52}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
